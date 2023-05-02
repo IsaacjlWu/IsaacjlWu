@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Codesire-Deng's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacjlWu&hide=issues&count_private=true&show_icons=true&theme=onedark)
+
+- 🔭 I’m currently learning about C++ coroutine.
+
+- How to reach me:
+  - 📫 email: [isaacjlwu@gmail.com](mailto:isaacjlwu@gmail.com)
